@@ -1,0 +1,8 @@
+[package]
+name = "take_home_layup"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-bigint = "0.4.6"
+plotters = "0.3.7"
